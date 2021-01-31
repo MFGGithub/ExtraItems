@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExtraItems
 {
-    public class Class1
+    class Patcher
     {
     }
 }
